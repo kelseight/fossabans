@@ -1,0 +1,7 @@
+Each fossabans file contains a .txt of twitch usernames to mass ban using fossabot. 
+In order to run the bot, first you will need to open the link to the txt file you want to run. 
+Then, click on the button that says "raw". It will open up the file in a new tab and you can copy and paste the URL. 
+in the twitch chat that you have channel editor privileges for, you will type (without the quotation marks) " !filesay [copied github url] "
+Once that's in the chat, it'll automatically ban all the usernames on the txt file. 
+
+I'm porkiswayne on discord, please message me if you have questions or need help
